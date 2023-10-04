@@ -1,0 +1,11 @@
+﻿Yes,No,n,intro_text.started_mean,intro_text.started_raw,intro_text.started_std,intro_text.stopped_raw,text.started_mean,text.started_raw,text.started_std,text.stopped_raw,order
+n,m,1.0,17.135486602783203,17.135486602783203,0.0,,2230.887939453125,2230.887939453125,0.0,,0.0
+
+extraInfo
+participant,2
+group,B
+session,02
+date,2022-12-06_10h53.40.329
+expName,AssociativeLearning_v2
+psychopyVersion,2022.1.4
+frameRate,None

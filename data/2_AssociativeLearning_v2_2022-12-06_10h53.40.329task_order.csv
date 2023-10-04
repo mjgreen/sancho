@@ -1,0 +1,13 @@
+﻿Task,n,order
+Control,1.0,0.0
+Valence,1.0,1.0
+Reward,1.0,2.0
+
+extraInfo
+participant,2
+group,B
+session,02
+date,2022-12-06_10h53.40.329
+expName,AssociativeLearning_v2
+psychopyVersion,2022.1.4
+frameRate,None

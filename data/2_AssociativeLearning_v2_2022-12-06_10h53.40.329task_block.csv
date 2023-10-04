@@ -1,0 +1,33 @@
+﻿Label1,Label2,Label3,Sky_shape,Earth_shape,Air_shape,intro_label1,intro_label2,intro_label3,Shape1,Shape2,Shape3,intro_label_type1,intro_label_type2,n,instructions_text.started_mean,instructions_text.started_raw,instructions_text.started_std,instructions_text.stopped_raw,practice_fixation_cross.started_mean,practice_fixation_cross.started_raw,practice_fixation_cross.started_std,practice_fixation_cross.stopped_raw,self_practice_end_text.started_mean,self_practice_end_text.started_raw,self_practice_end_text.started_std,self_practice_end_text.stopped_raw,trials_end_resp.keys_raw,trials_end_resp.rt_mean,trials_end_resp.rt_raw,trials_end_resp.rt_std,trials_end_resp.started_mean,trials_end_resp.started_raw,trials_end_resp.started_std,trials_end_resp.stopped_raw,trials_end_text.started_mean,trials_end_text.started_raw,trials_end_text.started_std,trials_end_text.stopped_raw,order
+S,C,T,Square,Circle,Triangle,air,sky,earth,Air,Earth,Earth,words,word,1.0,18.062992095947266,18.062992095947266,0.0,,20.966466903686523,20.966466903686523,0.0,,74.92117309570312,74.92117309570312,0.0,,'space',2.6325974464416504,2.6325974464416504,0.0,756.9032592773438,756.9032592773438,0.0,,756.9032592773438,756.9032592773438,0.0,,0.0
+
+extraInfo
+participant,2
+group,B
+session,02
+date,2022-12-06_10h53.40.329
+expName,AssociativeLearning_v2
+psychopyVersion,2022.1.4
+frameRate,None
+﻿Label1,Label2,Label3,Happy_shape,Neutral_shape,Sad_shape,intro_label1,intro_label2,intro_label3,Shape1,Shape2,Shape3,intro_label_type1,intro_label_type2,n,instructions_text.started_mean,instructions_text.started_raw,instructions_text.started_std,instructions_text.stopped_raw,practice_fixation_cross.started_mean,practice_fixation_cross.started_raw,practice_fixation_cross.started_std,practice_fixation_cross.stopped_raw,self_practice_end_text.started_mean,self_practice_end_text.started_raw,self_practice_end_text.started_std,self_practice_end_text.stopped_raw,trials_end_resp.keys_raw,trials_end_resp.rt_mean,trials_end_resp.rt_raw,trials_end_resp.rt_std,trials_end_resp.started_mean,trials_end_resp.started_raw,trials_end_resp.started_std,trials_end_resp.stopped_raw,trials_end_text.started_mean,trials_end_text.started_raw,trials_end_text.started_std,trials_end_text.stopped_raw,order
+X,H,R,Star,Hexagon,Rectangle,a Neutral Face,a Sad Face,a Happy Face,Neutral,Sad,Happy,faces,face,1.0,759.7991943359375,759.7991943359375,0.0,,790.7354736328125,790.7354736328125,0.0,,852.8368530273438,852.8368530273438,0.0,,'space',10.026694297790527,10.026694297790527,0.0,1467.5418701171875,1467.5418701171875,0.0,,1467.5418701171875,1467.5418701171875,0.0,,0.0
+
+extraInfo
+participant,2
+group,B
+session,02
+date,2022-12-06_10h53.40.329
+expName,AssociativeLearning_v2
+psychopyVersion,2022.1.4
+frameRate,None
+﻿Label1,Label2,Label3,HighReward_shape,MediumReward_Shape,LowReward_shape,intro_label1,intro_label2,intro_label3,Shape1,Shape2,Shape3,intro_label_type1,intro_label_type2,n,instructions_text.started_mean,instructions_text.started_raw,instructions_text.started_std,instructions_text.stopped_raw,practice_fixation_cross.started_mean,practice_fixation_cross.started_raw,practice_fixation_cross.started_std,practice_fixation_cross.stopped_raw,self_practice_end_text.started_mean,self_practice_end_text.started_raw,self_practice_end_text.started_std,self_practice_end_text.stopped_raw,trials_end_resp.keys_raw,trials_end_resp.rt_mean,trials_end_resp.rt_raw,trials_end_resp.rt_std,trials_end_resp.started_mean,trials_end_resp.started_raw,trials_end_resp.started_std,trials_end_resp.stopped_raw,trials_end_text.started_mean,trials_end_text.started_raw,trials_end_text.started_std,trials_end_text.stopped_raw,order
+O,P,D,Oval,Pentagon,Diamond,£25,£0,£50,£25,£0,£50,amounts of money,money,1.0,1478.0908203125,1478.0908203125,0.0,,1518.9478759765625,1518.9478759765625,0.0,,1578.803466796875,1578.803466796875,0.0,,'space',2.993175745010376,2.993175745010376,0.0,2226.550537109375,2226.550537109375,0.0,,2226.550537109375,2226.550537109375,0.0,,0.0
+
+extraInfo
+participant,2
+group,B
+session,02
+date,2022-12-06_10h53.40.329
+expName,AssociativeLearning_v2
+psychopyVersion,2022.1.4
+frameRate,None
